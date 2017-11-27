@@ -14,3 +14,5 @@
   </div>
 </div>
 <div>Have a good day!</div>
+<br><br><br>
+<b>p.s. </b> I assume you have already configured wamp to execute perl scripts.
